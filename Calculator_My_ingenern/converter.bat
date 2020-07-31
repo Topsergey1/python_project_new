@@ -1,1 +1,1 @@
-C:\Python_progect-37\venv\Scripts\pyuic5 Calculator_My_ingenern.ui -o Calculator_My_ingenern.py
+C:\python_37\python_project_new\Scripts\pyuic5 Calculator_My_ingenern.ui -o Calculator_My_ingenern.py
